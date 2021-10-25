@@ -10,9 +10,13 @@ npm i
 ```
 Запуск сервера для разработки:
 ```bash
-npm start
+npm run dev
 ```
 Сборка
+```bash
+npm run build
 ```
-npm build
+Запуск проекта из сборки
+```bash
+npm start
 ```

@@ -1,7 +1,7 @@
 # Генерация excel таблицы из пользовательских данных
 ## Описание
 Серверная часть генерации таблицы. Весь код пиался только ради изучения возможности генерации и скачивания файлов.
-[Frontend часть](https://github.com/manulovich/generate-exel-table__frontend)
+[Frontend часть](https://github.com/manulovich/genereate-excel__frontend)
 
 ## Команды
 Установка зависимостей:
